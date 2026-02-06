@@ -8,7 +8,13 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
+<<<<<<< HEAD
+Aqui ha estado Jose Maria.
+
+Intento de cambio. Jose Maria.
+=======
 
 Aqui ha estado Salvador-Galán
 
 Intento de cambio Salvador-Galán
+>>>>>>> 6aefb50bba7c01d82e27ea0f96f4ed560b0021ab
